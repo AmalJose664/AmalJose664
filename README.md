@@ -1,6 +1,8 @@
 # About Me:
 BCA Student<br />
 
+![](https://komarev.com/ghpvc/?username=AmalJose664)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amal-jose-7a20a6249/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amal446446@gmail.com) 
