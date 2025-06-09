@@ -46,7 +46,7 @@
 ###
 
 <br>
-<h3 align="center">Skills</h3>
+<h3 align="center"></h3>
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
@@ -94,7 +94,7 @@
 ###
 
 <br>
-<h3 align="center">Other Skills</h3>
+<h3 align="center"></h3>
 <div align="center">
 
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender">
