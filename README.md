@@ -124,7 +124,9 @@
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://nirzak-streak-stats.vercel.app/?user=AmalJose664&theme=dark" alt="GitHub Streak" />
+	  <img src="https://streak-stats.demolab.com?user=AmalJose664&theme=radical&border_radius=12&card_width=500&card_height=200" alt="GitHub Streak" />
   </a>
+	
 </div>
 
 ###
