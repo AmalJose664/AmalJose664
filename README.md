@@ -32,15 +32,33 @@
 
 ###
 
-<h3 align="center"> About Me  <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h3>
+<h3 align="center"><img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h3>
 
 ###
-
-<p align="center">Hey there, I’m Amal Jose, a  𝗠𝗘𝗥𝗡 𝘀𝘁𝗮𝗰𝗸 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 from India, with expertise in building full-stack web applications. I specialize in creating seamless, responsive solutions by integrating innovative front-end development with robust back-end architecture. With proficiency in both front-end technologies like React and back-end frameworks like Express, Node.js and Django, I am a versatile developer who can manage the entire development lifecycle. I take pride in writing clean, efficient code and delivering scalable solutions that address real-world challenges.</p>
 
 <div align="center">
   📚 I'm currently learning Next.js<br>
  🎯 Goals: Make web applications that make life easy
+</div>
+
+###
+
+<div align="center">
+  <span>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmalJose664&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  </span>
+  <span>
+    <img src="https://github-readme-stats.vercel.app/api?username=AmalJose664&show_icons=true&theme=dark&locale" alt="GitHub Stats">
+  </span>
+</div>
+
+###
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+     <img src="https://streak-stats.demolab.com?user=AmalJose664&theme=radical&border_radius=12&card_width=500&card_height=200" alt="GitHub Streak" />
+  </a>
+	
 </div>
 
 ###
@@ -88,7 +106,6 @@
 	<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm">
 	<img src="https://img.shields.io/badge/pip-3776AB?style=for-the-badge&logo=pypi&logoColor=white" alt="pip">
 
-	
 </div>
 
 ###
@@ -107,23 +124,12 @@
 
 ###
 
-<br >
+<br>
+<br>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmalJose664&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=AmalJose664&show_icons=true&theme=dark&locale" alt="GitHub Stats">
-</div>
-
-###
-
-<div align="center">
   <a href="https://git.io/streak-stats">
-     <img src="https://streak-stats.demolab.com?user=AmalJose664&theme=radical&border_radius=12&card_width=500&card_height=200" alt="GitHub Streak" />
+     <img src="https://github-contributor-stats.vercel.app/api?username=AmalJose664&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="stats">
   </a>
 	
 </div>
