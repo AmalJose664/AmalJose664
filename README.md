@@ -32,7 +32,7 @@
 
 <div align="center">
   <span>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmalJose664&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=20&theme=dark&hide_border=false&order=2&stats_format=bytes&text_color=c0ffee&title_color=00ccff&icon_color=99ffcc&border_radius=10&border_color=003366&bg_color=45,000033,003366,0066cc" height="150" alt="languages graph"  />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmalJose664&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=20&theme=dark&hide_border=false&order=2&stats_format=bytes&text_color=c0ffee&title_color=00ccff&icon_color=99ffcc&border_radius=10&border_color=003366&bg_color=45,000033,003366,0066cc" height="220" alt="languages graph"  />
   </span>
 
   <span>
