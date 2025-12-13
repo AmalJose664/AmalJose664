@@ -1,30 +1,21 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6CE4F7&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=70&lines=Amal+Jose;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00CCFF&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=70&lines=Amal+Jose;" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="GIF" />
 </div>
 
-
-
 ###
 
 <div align="center">
-  <a href="https://www.facebook.com/amal.jose.758399/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/amal-jose-7a20a6249/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://wa.me/8301943079" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+  <a href="https://github.com/AmalJose664/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=323233&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Github logo"  />
   </a>
 </div>
-
-###
-
-<div align="center">Hi <img src="https://i.ibb.co.com/tHbZrZ5/hi.gif" width="50px" height="50px">, I'm Amal</div>
 
 ###
 
@@ -33,18 +24,19 @@
 ###
 
 <div align="center">
-  📚 I'm currently learning Next.js<br>
- 🎯 Goals: Make web applications that make life easy
+  📚 I'm currently learning Everything<br>
+  🎯 Goals: Explore world (probably)
 </div>
 
 ###
 
 <div align="center">
   <span>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmalJose664&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmalJose664&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=20&theme=dark&hide_border=false&order=2&stats_format=bytes&text_color=c0ffee&title_color=00ccff&icon_color=99ffcc&border_radius=10&border_color=003366&bg_color=45,000033,003366,0066cc" height="150" alt="languages graph"  />
   </span>
+
   <span>
-    <img src="https://github-readme-stats.vercel.app/api?username=AmalJose664&show_icons=true&theme=dark&locale" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=AmalJose664&show_icons=true&theme=dark&text_color=c0ffee&title_color=00ccff&icon_color=99ffcc&border_radius=10&border_color=003366&bg_color=45,000033,003366,0066cc" alt="GitHub Stats">
   </span>
 </div>
 
@@ -52,9 +44,9 @@
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-     <img src="https://streak-stats.demolab.com?user=AmalJose664&theme=radical&border_radius=12&card_width=500&card_height=200" alt="GitHub Streak" />
+     <img src="https://streak-stats.demolab.com?user=AmalJose664&theme=dark&background=000033&border=003366&stroke=00ccff&ring=00ccff&fire=00ccff&currStreakLabel=c0ffee&currStreakNum=00ccff&sideLabels=c0ffee&sideNums=00ccff&dates=99ffcc&hide_border=false&border_radius=10&card_width=500&card_height=200" alt="GitHub Streak" />
   </a>
-	
+    
 </div>
 
 ###
@@ -95,12 +87,12 @@
 
 <h3 align="center">Tools</h3>
 <div align="center">
-  	<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  	<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
-  	<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-	<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render">
-	<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm">
-	<img src="https://img.shields.io/badge/pip-3776AB?style=for-the-badge&logo=pypi&logoColor=white" alt="pip">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+    <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render">
+    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm">
+    <img src="https://img.shields.io/badge/pip-3776AB?style=for-the-badge&logo=pypi&logoColor=white" alt="pip">
 
 </div>
 
@@ -125,9 +117,9 @@
 <br>
 <div align="center">
   <a href="https://git.io/streak-stats">
-     <img src="https://github-contributor-stats.vercel.app/api?username=AmalJose664&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="stats">
+     <img src="https://github-contributor-stats.vercel.app/api?username=AmalJose664&limit=5&combine_all_yearly_contributions=true&bg_color=000033&text_color=c0ffee&title_color=00ccff&border_color=003366" alt="stats">
   </a>
-	
+    
 </div>
 
 ###
