@@ -1,8 +1,3 @@
-<div style="background: linear-gradient(
-  45deg,
-rgb(7, 29, 50),
-rgba(92, 92, 92, 0)
-); border-radius:10px; padding: 10px">
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00CCFF&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=70&lines=Amal+Jose;" alt="Typing SVG" />
 </div>
@@ -30,8 +25,38 @@ rgba(92, 92, 92, 0)
 
 <div align="center" style="color:#63caff">
   📚 I'm currently learning Everything<br>
-  🎯 Goals: Explore world (probably)
 </div>
+<br>
+<br>
+
+```javascript
+class Amal {
+	constructor() {
+		this.username = "AmalJose664"
+		this.name = "Amal Jose"
+		this.stack = "Backend Software Developer"
+		this.links = "https://www.linkedin.com/in/amal-jose-7a20a6249/"
+		this.code = {
+			backend: ["Javascript", "NodeJS", "Express", "Python"],
+			database: ["PostgreSQL", "MySQL", "SQLite3", "MongoDB", "Redis"],
+			devops: ["Docker", "Linux", "GitHub Actions", "AWS", "Kubernates"],
+			frontend: ["React", "JavaScript", "Tailwind"],
+			tools: ["Git", "GitHub", "GitLab", "Nginx"],
+		}
+		this.architecture = ["SPA", "MVC", "Serverless", "Microservices"]
+	}
+
+	toString() {
+		return `${this.name} | ${this.stack}`
+	}
+}
+const me = new Amal()
+console.log(me.toString())
+```
+
+<br>
+<br>
+<br>
 
 ###
 
@@ -39,6 +64,7 @@ rgba(92, 92, 92, 0)
   <span>
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmalJose664&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=20&theme=dark&hide_border=false&order=2&stats_format=bytes&text_color=c0ffee&title_color=00ccff&icon_color=99ffcc&border_radius=10&border_color=003366&bg_color=45,000033,003366,0066cc" height="220" alt="languages graph"  />
   </span>
+
   <span>
     <img src="https://github-readme-stats.vercel.app/api?username=AmalJose664&show_icons=true&theme=dark&text_color=c0ffee&title_color=00ccff&icon_color=99ffcc&border_radius=10&border_color=003366&bg_color=45,000033,003366,0066cc" alt="GitHub Stats">
   </span>
@@ -50,48 +76,4 @@ rgba(92, 92, 92, 0)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AmalJose664&theme=dark&background=000033&border=003366&stroke=00ccff&ring=00ccff&fire=00ccff&currStreakLabel=c0ffee&currStreakNum=00ccff&sideLabels=c0ffee&sideNums=00ccff&dates=99ffcc&hide_border=false&border_radius=10&card_width=500&card_height=200)](https://git.io/streak-stats)
 
-</div>
-
-###
-
-<br>
-<h3 style="color:#00ccff" align="center">Tech Stack & Tools</h3>
-<div align="center" style="background: linear-gradient(
-  45deg,
-  #000033,
-  #003366,
-  #0066cc
-); border-radius:10px; padding: 20px 2px">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS">
-  <br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
-  <br>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <br>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Bug%20Bounty-222222?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Bug Bounty">
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender">
-</div>
-
-###
-
-<br>
-<br>
-<div align="center">
-  <a href="https://git.io/streak-stats">
-     <img src="https://github-contributor-stats.vercel.app/api?username=AmalJose664&limit=5&combine_all_yearly_contributions=true&bg_color=000033&text_color=c0ffee&title_color=00ccff&border_color=003366" alt="stats">
-  </a>    
-</div>
-
-###
 </div>
