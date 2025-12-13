@@ -94,19 +94,4 @@ rgba(92, 92, 92, 0)
 </div>
 
 ###
-
-###
-
-<br>
-<br>
-<br>
-<div align="center">
-  <a href="https://git.io/streak-stats">
-     <img src="https://github-contributor-stats.vercel.app/api?username=AmalJose664&limit=5&combine_all_yearly_contributions=true&bg_color=000033&text_color=c0ffee&title_color=00ccff&border_color=003366" alt="stats">
-  </a>
-    
-</div>
-
-###
-
 </div>
