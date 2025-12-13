@@ -39,9 +39,6 @@ rgba(92, 92, 92, 0)
   <span>
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmalJose664&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=20&theme=dark&hide_border=false&order=2&stats_format=bytes&text_color=c0ffee&title_color=00ccff&icon_color=99ffcc&border_radius=10&border_color=003366&bg_color=45,000033,003366,0066cc" height="220" alt="languages graph"  />
   </span>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=AmalJose664&theme=dark&background=000033&border=003366&stroke=00ccff&ring=00ccff&fire=00ccff&currStreakLabel=c0ffee&currStreakNum=00ccff&sideLabels=c0ffee&sideNums=00ccff&dates=99ffcc&hide_border=false&border_radius=10&card_width=500&card_height=200)](https://git.io/streak-stats)
-
   <span>
     <img src="https://github-readme-stats.vercel.app/api?username=AmalJose664&show_icons=true&theme=dark&text_color=c0ffee&title_color=00ccff&icon_color=99ffcc&border_radius=10&border_color=003366&bg_color=45,000033,003366,0066cc" alt="GitHub Stats">
   </span>
