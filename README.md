@@ -23,9 +23,6 @@
 
 ###
 
-<div align="center" style="color:#63caff">
-  📚 I'm currently learning Everything<br>
-</div>
 <br>
 <br>
 
