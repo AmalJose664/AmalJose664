@@ -17,14 +17,9 @@
   </a>
 </div>
 
-###
+<!-- ###
 
-<h3 align="center"><img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h3>
-
-###
-
-<br>
-<br>
+<h3 align="center"><img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?
 
 ```javascript
 class Amal {
@@ -51,6 +46,19 @@ const me = new Amal()
 console.log(me.toString())
 ```
 
+cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h3> -->
+
+###
+
+<br>
+<br>
+
+<a href="https://github.com/AmalJose664/AmalJose664">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmalJose664/AmalJose664/main/dark_mode.svg">
+    <img alt="Andrew Grant's GitHub Profile README" src="https://raw.githubusercontent.com/AmalJose664/AmalJose664/main/light_mode.svg">
+  </picture>
+</a>
 <br>
 <br>
 <br>
