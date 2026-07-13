@@ -48,7 +48,7 @@ console.log(me.toString())
 
 cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h3> -->
 
-<a href="https://github.com/AmalJose664/AmalJose664">
+<a href="https://github.com/AmalJose664/AmalJose664"> 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmalJose664/AmalJose664/main/dark_mode.svg">
     <img alt="Andrew Grant's GitHub Profile README" src="https://raw.githubusercontent.com/AmalJose664/AmalJose664/main/light_mode.svg">
