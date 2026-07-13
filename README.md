@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00CCFF&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=70&lines=Amal+Jose;" alt="Typing SVG" />
 </div>
 
@@ -15,7 +15,7 @@
   <a href="https://github.com/AmalJose664/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=323233&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Github logo"  />
   </a>
-</div>
+</div> -->
 
 <!-- ###
 
